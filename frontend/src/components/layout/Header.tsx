@@ -22,7 +22,6 @@ export default function Header() {
   const navLinks = [
     { href: `/${locale}`, ar: "الرئيسية", en: "Home", icon: <Home size={18} /> },
     { href: `/${locale}/listings`, ar: "العقارات", en: "Listings", icon: <Building2 size={18} /> },
-    { href: `/${locale}/search`, ar: "بحث", en: "Search", icon: <Search size={18} /> },
   ];
 
   return (

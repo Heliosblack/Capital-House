@@ -77,7 +77,7 @@ async def list_listings(
 ):
     conditions = build_filters(
         listing_type, property_type, governorate,
-        status or ListingStatus.ACTIVE,
+        status if (agent_id is not None and status is None) else (status or ListingStatus.ACTIVE),
         is_featured, is_verified,
         min_price, max_price, bedrooms, q, agent_id,
     )

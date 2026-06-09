@@ -7,7 +7,7 @@ export default function Footer() {
   const links = [
     { href: `/${locale}`, ar: "الرئيسية", en: "Home" },
     { href: `/${locale}/listings`, ar: "العقارات", en: "Listings" },
-    { href: `/${locale}/search`, ar: "بحث", en: "Search" },
+    { href: `/${locale}/login`, ar: "تسجيل دخول", en: "Login" },
   ];
 
   return (

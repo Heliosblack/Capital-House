@@ -16,6 +16,7 @@ class UserOut(BaseModel):
     is_trusted_agent: bool
     whatsapp_number: str | None
     bio: str | None
+    verified_listings_count: int = 0
     created_at: datetime
     model_config = {"from_attributes": True}
 
