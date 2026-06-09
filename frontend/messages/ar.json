@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "buy": "شراء",
+    "rent": "إيجار",
+    "sell": "بيع",
+    "farms": "مزارع وأراضي",
+    "login": "تسجيل الدخول",
+    "dashboard": "لوحة التحكم",
+    "logout": "تسجيل الخروج"
+  },
+  "home": {
+    "hero_title": "ابحث عن عقارك المثالي في الأردن",
+    "hero_subtitle": "منصة العقارات الأولى في الأردن — شقق، فلل، أراضي، مزارع في جميع المحافظات الـ 12",
+    "search_placeholder": "ابحث بالموقع أو نوع العقار...",
+    "search_btn": "بحث",
+    "for_sale": "للبيع",
+    "for_rent": "للإيجار",
+    "featured": "عقارات مميزة",
+    "view_all": "عرض الكل"
+  },
+  "listing": {
+    "price": "السعر",
+    "area": "المساحة",
+    "bedrooms": "غرف النوم",
+    "bathrooms": "الحمامات",
+    "location": "الموقع",
+    "contact_whatsapp": "تواصل واتساب",
+    "verified": "موثق",
+    "featured": "مميز",
+    "for_sale": "للبيع",
+    "for_rent": "للإيجار",
+    "jod": "دينار"
+  },
+  "property_types": {
+    "apartment": "شقة",
+    "villa": "فيلا",
+    "home": "منزل",
+    "land": "أرض",
+    "farm": "مزرعة",
+    "commercial": "تجاري"
+  },
+  "governorates": {
+    "amman": "عمان",
+    "zarqa": "الزرقاء",
+    "irbid": "إربد",
+    "aqaba": "العقبة",
+    "madaba": "مادبا",
+    "karak": "الكرك",
+    "tafilah": "الطفيلة",
+    "maan": "معان",
+    "jerash": "جرش",
+    "ajloun": "عجلون",
+    "mafraq": "المفرق",
+    "balqa": "البلقاء"
+  },
+  "auth": {
+    "phone_label": "رقم الهاتف",
+    "phone_placeholder": "07xxxxxxxx",
+    "send_otp": "إرسال رمز التحقق",
+    "enter_otp": "أدخل رمز التحقق",
+    "otp_sent": "تم إرسال رمز التحقق إلى هاتفك",
+    "verify": "تحقق",
+    "name_label": "الاسم الكامل",
+    "name_placeholder": "اسمك الكامل"
+  },
+  "errors": {
+    "required": "هذا الحقل مطلوب",
+    "invalid_phone": "رقم هاتف غير صحيح",
+    "invalid_otp": "رمز التحقق غير صحيح أو منتهي الصلاحية"
+  }
+}
