@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "buy": "Buy",
+    "rent": "Rent",
+    "sell": "Sell",
+    "farms": "Farms & Land",
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero_title": "Find Your Perfect Property in Jordan",
+    "hero_subtitle": "Jordan's first specialized real estate platform — apartments, villas, land, and farms across all 12 governorates",
+    "search_placeholder": "Search by location or property type...",
+    "search_btn": "Search",
+    "for_sale": "For Sale",
+    "for_rent": "For Rent",
+    "featured": "Featured Properties",
+    "view_all": "View All"
+  },
+  "listing": {
+    "price": "Price",
+    "area": "Area",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "location": "Location",
+    "contact_whatsapp": "Contact on WhatsApp",
+    "verified": "Verified",
+    "featured": "Featured",
+    "for_sale": "For Sale",
+    "for_rent": "For Rent",
+    "jod": "JOD"
+  },
+  "property_types": {
+    "apartment": "Apartment",
+    "villa": "Villa",
+    "home": "Home",
+    "land": "Land",
+    "farm": "Farm",
+    "commercial": "Commercial"
+  },
+  "governorates": {
+    "amman": "Amman",
+    "zarqa": "Zarqa",
+    "irbid": "Irbid",
+    "aqaba": "Aqaba",
+    "madaba": "Madaba",
+    "karak": "Karak",
+    "tafilah": "Tafilah",
+    "maan": "Maan",
+    "jerash": "Jerash",
+    "ajloun": "Ajloun",
+    "mafraq": "Mafraq",
+    "balqa": "Balqa"
+  },
+  "auth": {
+    "phone_label": "Phone Number",
+    "phone_placeholder": "07xxxxxxxx",
+    "send_otp": "Send OTP",
+    "enter_otp": "Enter OTP Code",
+    "otp_sent": "OTP sent to your phone",
+    "verify": "Verify",
+    "name_label": "Full Name",
+    "name_placeholder": "Your full name"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalid_phone": "Invalid phone number",
+    "invalid_otp": "Invalid or expired OTP code"
+  }
+}
